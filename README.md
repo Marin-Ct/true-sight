@@ -93,4 +93,4 @@ GitHub has a [step-by-step guide to PRs from forks](https://docs.github.com/en/p
 
 If a reviewer asks for changes, edit the **same branch**, commit, and push again. Your PR updates automatically; you do not need to open another one.
 
-**Note:** The current macOS and Windows build workflows run manually or on `v*` tags, not automatically for every PR. Report the local build or checks you ran in the PR description.
+**Note:** The current macOS and Windows build workflows run manually or on `v*` tags, not automatically for every PR. Report the local build or checks you ran in the PR description. gg
